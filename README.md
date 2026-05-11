@@ -92,7 +92,3 @@ ai-agent-cli/
     ├── styles.css
     └── script.js
 ```
-
-## Assignment
-
-Built as Assignment 02 for the Scaler GenAI course — demonstrating an autonomous CLI agent with a reasoning loop, tool use, and real file output.
